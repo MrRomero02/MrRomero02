@@ -25,16 +25,11 @@
 - **Objetivo:** Proteger dispositivos móviles del *phishing* en correos electrónicos.
 - **Enfoque:** Uso de redes neuronales y modelos de aprendizaje profundo entrenados con datos del **Hospital Regional Eleazar Guzmán Barrón**.
 
-### 🧑‍🍳 **Simulación de Entrevista de Chef**
-- **Lenguaje:** Inglés  
-- **Colaboradores:** Norma, Jozmel y Anali  
-- **Propósito:** Mejorar habilidades lingüísticas y de expresión oral mediante entrevistas simuladas.
-
 ---
 
 ## ✨ Logros y Hitos
 
-- 🏅 **Octavo ciclo completado:** Universidad Nacional del Santa  
+- 🏅 **Noveno ciclo completado:** Universidad Nacional del Santa  
 - 🎓 En proceso de **tesis de grado** en Ingeniería de Sistemas e Informática.
 - 🎯 Creador de repositorios colaborativos en GitHub con proyectos innovadores.
 
@@ -51,9 +46,9 @@ Me apasiona aprender constantemente:
 
 ## 🌐 Conéctate conmigo
 
-- **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/tu-perfil/)  
-- **GitHub:** [Repositorio Principal](https://github.com/TU-USUARIO)  
-- **Correo:** tucorreo@example.com  
+- **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/luis-eduardo-romero-perez-a9838b1a9/)  
+- **GitHub:** [Repositorio Principal](https://github.com/MrRomero02)  
+- **Correo:** luisluiseduar@gmail.com  
 
 ---
 
